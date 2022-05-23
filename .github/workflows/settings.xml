@@ -7,6 +7,6 @@
             <username>${env.MAVEN_USERNAME}</username>
             <password>${env.MAVEN_PASSWORD}</password>
         </server>
-    </servers>
+    </servers> 
 <!--...-->
 </settings>
