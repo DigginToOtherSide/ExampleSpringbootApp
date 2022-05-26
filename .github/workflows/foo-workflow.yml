@@ -4,7 +4,7 @@ on:
   push:
 
 env:
-  HOST: mathworks.leanix.net
+  HOST: us.leanix.net
   LEANIX_MANIFEST_PATH: /lx-manifest.yml
   DEPENDENCY_MANAGER: MAVEN
   SETTING_FILE: settings.xml
